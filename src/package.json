@@ -1,0 +1,14 @@
+{
+  "name": "bitbucket-webhook-manager",
+  "version": "1.0.0",
+  "description": "Manage Bitbucket Repository Webhooks",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "KevinSung",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^28.0.0"
+  }
+}
